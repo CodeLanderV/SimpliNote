@@ -1,6 +1,6 @@
-# 🌟 SimpliNote4j
+#  SimpliNote4j
 
-Hello there! 👋 This is **SimpliNote4j**, a friendly Java application with two super-cool parts:
+Hello there!  This is **SimpliNote4j**, a friendly Java application with two super-cool parts:
 
 1. **Local AI Chatbot** – talk to an AI right on your computer  
 2. **SimpliNote Productivity App** – make to-do lists, calendars, timers, and smart notes  
@@ -9,7 +9,7 @@ Everything runs on your own machine. No secrets go to the cloud. Let’s dive in
 
 ---
 
-## 📖 Table of Contents
+##  Table of Contents
 
 1. [Why SimpliNote4j?](#why-simplinote4j)  
 2. [Part 1: Local AI Chatbot](#part-1-local-ai-chatbot)  
@@ -64,7 +64,7 @@ This part is a **group project** by Akshita D., Harshil R., Prithvi S., and me (
 -  **Calendar**  
   See your month in a neat grid.  
 -  **To-Do List**  
-  Add tasks, set priorities (low ➖, medium ⚡, high 🔥), mark them done.  
+  Add tasks, set priorities (low, medium, high), mark them done.  
 -  **Pomodoro Timer**  
   Work in sprints (25 minutes), then take a break.  
 -  **Smart Note-Taking** with local AI  
@@ -150,5 +150,5 @@ Feel free to use, modify, and share!
 
 ---
 
-Thank you for checking out **SimpliNote4j**! 🎉  
+Thank you for checking out **SimpliNote4j**! 
 Enjoy your private, local AI assistant and productivity suite!  
